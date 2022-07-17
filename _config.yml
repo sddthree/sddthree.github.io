@@ -68,7 +68,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: chauby/sddthree.github.io
+repository: sddthree/sddthree.github.io
 
 # Search
 simple_jekyll_search:
