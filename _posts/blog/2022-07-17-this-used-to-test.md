@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 动态运动基元（DMP）的详细介绍及其Python实现
-categories: [test]
+title: 算法的收费的发生发射点发生
+categories: Blog
 description: none
 keywords: test1, test1 
 ---
