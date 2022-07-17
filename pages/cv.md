@@ -72,5 +72,5 @@ I have published some papers [[Google Scholar]](https://scholar.google.com.hk/ci
 
 ## Awards & Honors
 
-- 2021: First class Scholarship for Postgraduate. students, UESTC.
-- 2020: Second class Scholarship for /Graduate students, UESTC.
+- 2021: First class Scholarship for Postgraduate. students, UIC.
+- 2020: Second class Scholarship for /Graduate students, UIC.
