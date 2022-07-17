@@ -45,9 +45,9 @@ I have published some papers [[Google Scholar]](https://scholar.google.com.hk/ci
 
 3. Y. Yu, Q. Ou, C. Yu, L. Wang, R. Zhang, R. Zhao, B. Qu, **Z. Wang**, R. Lin, H. Yao, ”Development and Validation of a Deep Learning RNA Modification Model Predict Disease-free Survival in Patients with Breast Cancer“, in Annlas of oncology, 2022. [paper](https://www.annalsofoncology.org/article/S0923-7534(22)00401-X/fulltext)
 
-4. B. song, C. Gong, Y. Gao, Y. Ke, **Z. Wang**, R. Lin, Y. Cai, ”Music Literacy and Soundscape Perception: A Study Based on the Soundwalk Method of Soundscapes“, in International Journal of Environmental Research and Public Health (IJERPH), 2022. [paper]([IJERPH | Free Full-Text | Music Literacy and Soundscape Perception: A Study Based on the Soundwalk Method of Soundscapes (mdpi.com)](https://www.mdpi.com/1660-4601/19/14/8471))
+4. B. song, C. Gong, Y. Gao, Y. Ke, **Z. Wang**, R. Lin, Y. Cai, ”Music Literacy and Soundscape Perception: A Study Based on the Soundwalk Method of Soundscapes“, in International Journal of Environmental Research and Public Health (IJERPH), 2022. [paper](https://www.mdpi.com/1660-4601/19/14/8471)
 
-5. B. Song, R. Lin, **Z. Wang**, Y. Cai, F. Wang, “Curriculum Design of Art Appreciation in Colleges Based on Kano Model Demand Analysis“, in 2021 International Conference on Digital Society and Intelligent Systems (DSInS), 2021. [paper](https://ieeexplore.ieee.org/document/9670590)https://ieeexplore.ieee.org/document/8273219)
+5. B. Song, R. Lin, **Z. Wang**, Y. Cai, F. Wang, “Curriculum Design of Art Appreciation in Colleges Based on Kano Model Demand Analysis“, in 2021 International Conference on Digital Society and Intelligent Systems (DSInS), 2021. [paper](https://ieeexplore.ieee.org/document/9670590)
 
 ## Educations
 
