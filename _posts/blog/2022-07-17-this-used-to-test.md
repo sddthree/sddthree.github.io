@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 算法的收费的发生发射点发生
-categories: Blog
+categories: [Blog]
 description: none
 keywords: test1, test1 
 ---
