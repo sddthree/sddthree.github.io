@@ -6,16 +6,8 @@ description: none
 keywords: 博客
 ---
 
-我平时会在知乎，个人公众号，CSDN等平台发布个人博客，写一些平时在科研/项目工作中的成果总结和部分技术文档，详见：
+我平时会在知乎，B站等平台发布个人博客，写一些平时在科研/项目工作中的成果总结和部分技术文档，详见：
 
-- 知乎：[沙漏](https://www.zhihu.com/people/zou-you-50)
+- 知乎：[沙漏](https://www.zhihu.com/people/qing-mei-zhu-cha-66)
+- B站：[沙漏](https://space.bilibili.com/279714586?spm_id_from=333.1007.0.0)
 
-- CSDN：[沙漏](https://blog.csdn.net/shakehands2012?spm=1000.2115.3001.5343)
-
-- 公众号可以扫描下面的二维码获取:
-
-
-<center>
-    <img src="/assets/images/qrcode.jpg" alt="picture not found" style="zoom:80%;" />
-    <br>
-</center>
