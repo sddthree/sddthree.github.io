@@ -33,20 +33,27 @@ l论文阅读系列--自监督学习篇
 ## 1.2 这篇论文的研究框架是什么样的
 
 <center>
-    <img src="/images/posts/blog/Paper/1658722281921.jpg" alt="picture not found" style="zoom:70%;" />
+    <img src="/images/posts/blog/Paper/1658804191064.jpg" alt="picture not found" style="zoom:70%;" />
     <br>
 </center>
+
 
 全新Loss设置:
 $$
 L = \lambda _ { d i s } * L _ { d i s } + \lambda _ { r e s } * L _ { r e s } + \lambda _ { a d v } * L _ { a d v }
 $$
+
+
 其中:
+
+
 $$
 L _ { \text { dis } } = \ell ( z _ { 1 } , z _ { 2 } )\\
 L _ { r e s } = E _ { x } \operatorname { dist } ( x _ { 1 } , x _ { 1 } ^ { \prime } )\\
 L _ { a d v } = E _ { x } [ \log D _ { \phi } ( x _ { 1 } ) ] + E _ { x } [ \log ( 1 - D _ { \phi } ( x _ { 1 } ^ { \prime } ) ) ]
 $$
+
+
 具体解释:
 $$
 \ell ( z _ { 1 } , z _ { 2 } )
