@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DiRA-Discriminative, Restorative, and Adversarial Learning for Self-supervised Medical Image Analysis
-categories: Blog
+categories: [Paper Read]
 description: none
 keywords: Medical Image Analysis, Contrastive learning, self-supervised
 ---
