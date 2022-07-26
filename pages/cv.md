@@ -9,6 +9,11 @@ permalink: /cv/
 ---
 <br>
 
+<center>
+    <img src="/images/me.jpg" alt="picture not found" style="zoom:70%;" />
+    <br>
+</center>
+
 I am currently a PhD candidate in United International College (UIC) [[link]](https://www.uic.edu.cn/).
 In the past two years, my main research topics are about computer vision for medical image analysis, and focus on MRI, pathology in breast cancer to predict lymph node metastasis or Disease-free Survival.
 I am also interested in machine learning of education or aesthetic research, such as sound analysis.
