@@ -46,7 +46,7 @@ keywords: Medical Image Analysis, Contrastive learning, self-supervised
 1. 架构的形成: Res block + Position normalization layers + FlexNet ~ S4 networks
 
 2. 深度可分离连续核卷积：分离卷积可以提升计算效率，并可以优化卷积，通过对spatial和channel的分离，先少了计算复杂度和参数复杂度。
-3. 核生成网络的初始化：初始化时，为避免出现梯度爆炸或者梯度消失，通常会让卷积层的输入方差等于输出方差。为避免上述情况，在核生成网络的最后一层，重新加权: $gain/\sqrt{in\_channels\cdot kernel\_size}$
+3. 核生成网络的初始化：初始化时，为避免出现梯度爆炸或者梯度消失，通常会让卷积层的输入方差等于输出方差。为避免上述情况，在核生成网络的最后一层，重新加权: $gain/\sqrt{in\_ channels\cdot kernel\_ size}$
 
 ## 1.3 这篇论文的实验效果
 
@@ -65,6 +65,6 @@ CCNN在多种任务上都表现良好，并在一些任务上达到了SOTA
 # 参考文献
 
 1. [FlexConv](https://openreview.net/forum?id=3jooF27-0Wy)
-2. [CKCNNs]([CKConv: Continuous Kernel Convolution For Sequential Data | OpenReview](https://openreview.net/forum?id=8FhxBtXSl0))
-3. [S4networks]([Efficiently Modeling Long Sequences with Structured State Spaces | OpenReview](https://openreview.net/forum?id=uYLFoz1vlAC))
-4. [initialization]([Principled Weight Initialization for Hypernetworks | OpenReview](https://openreview.net/forum?id=H1lma24tPB))
+2. [CKCNNs](https://openreview.net/forum?id=8FhxBtXSl0)
+3. [S4networks](https://openreview.net/forum?id=uYLFoz1vlAC)
+4. [Principled Weight Initialization for Hypernetworks | OpenReview](https://openreview.net/forum?id=H1lma24tPB)
