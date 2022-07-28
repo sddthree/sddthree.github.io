@@ -6,10 +6,7 @@ description: none
 keywords: Medical Image Analysis, Contrastive learning, self-supervised
 ---
 
-
----
-
-l论文阅读系列--自监督学习篇
+论文阅读系列--CNN网络架构篇
 
 # 1. ****Towards a General Purpose CNN for Long Range Dependencies in** N**D****
 

@@ -6,10 +6,7 @@ description: none
 keywords: Medical Image Analysis, Contrastive learning, self-supervised
 ---
 
-
----
-
-l论文阅读系列--自监督学习篇
+论文阅读系列--自监督学习篇
 
 # 1. **DiRA: Discriminative, Restorative, and Adversarial Learning for Self-supervised Medical Image Analysis**
 
