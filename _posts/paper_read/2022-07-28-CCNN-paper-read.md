@@ -67,4 +67,4 @@ CCNN在多种任务上都表现良好，并在一些任务上达到了SOTA
 1. [FlexConv](https://openreview.net/forum?id=3jooF27-0Wy)
 2. [CKCNNs](https://openreview.net/forum?id=8FhxBtXSl0)
 3. [S4networks](https://openreview.net/forum?id=uYLFoz1vlAC)
-4. [Principled Weight Initialization for Hypernetworks | OpenReview](https://openreview.net/forum?id=H1lma24tPB)
+4. [Principled Weight Initialization for Hypernetworks](https://openreview.net/forum?id=H1lma24tPB)
