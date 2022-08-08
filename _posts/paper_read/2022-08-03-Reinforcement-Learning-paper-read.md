@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Towards a General Purpose CNN for Long Range Dependencies in ND
+title: Reinforcement Learning in Medical Image Analysis
 categories: [Paper Read]
 description: none
-keywords: Medical Image Analysis, Contrastive learning, self-supervised
+keywords: Medical Image Analysis, Reinforcement Learning
 ---
 
-论文阅读系列--CNN网络架构篇
+论文阅读系列--RL篇
 
 # 1. **Reinforcement Learning in Medical Image Analysis: Concepts, Applications, Challenges, and Future Directions**
 
