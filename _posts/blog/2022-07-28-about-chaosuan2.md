@@ -10,5 +10,5 @@ keywords: 博客
 
 
 
-因为超算原本的cuda是9.0，而torch 版本是1.10适配的是9.0的cuda, 因此要重新装载cuda/11.x, 以及更高版本的torch, 参见[pytorch官方](https://pytorch.org/get-started/locally/)、以及过去的cuda版本见[这里](https://pytorch.org/get-started/previous-versions/)
+因为超算原本的cuda是9.0，而torch 版本是1.10适配的是9.0的cuda, 因此要重新装载cuda/11.x, cudnn/11.x 以及更高版本的torch, 参见[pytorch官方](https://pytorch.org/get-started/locally/)、以及过去的cuda版本见[这里](https://pytorch.org/get-started/previous-versions/)
 
