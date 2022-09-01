@@ -159,9 +159,13 @@ $\overrightarrow{p_{GT}}$ 表示为解剖位置的位置，$\overrightarrow{p_t}
 
 如图11所示。
 
-**3. *Hyperparameters optimization****
+**3. *Hyperparameters optimization***
 
-RL代理也可以用于优化现有的医学图像分割管道
+RL代理也可以用于优化现有的医学图像分割管道，搜索最优的神经网络结构。
+
+**4. *Segmentation as a Dynamic Process***
+
+“Show-Learn- Act” workflow。有用户指导下的分割学习
 
 
 
