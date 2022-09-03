@@ -29,3 +29,6 @@ keywords: 博客
 
 ​	改为 [EDL](https://papers.nips.cc/paper/2018/hash/a981f2b708044d6fb4a71a1463242520-Abstract.html)([MICCAL 2022](https://www.bilibili.com/video/BV1xT411L7Q1)一篇文章有使用) + 另一loss([Cancer Cell](https://doi.org/10.1016/j.ccell.2022.07.004))
 
+### 4. 多中心异质性问题
+
+​    排除掉异质性大的
