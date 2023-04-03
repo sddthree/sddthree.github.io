@@ -12,7 +12,7 @@ permalink: /publications/
 
 
 ## Published
-1. Y. Huang, Y. Liu, W. Ouyang, **Z. Wang***, H. Huang, Q. Ou, R. Lin, L. Lin,  L. Mao, Y. Yu, W. Su, Q. Luo, H. Yao, ”A comprehensive analysis of programmed cell death-associated genes for tumor microenvironment evaluation promotes precise immunotherapy in patients with lung adenocarcinoma“, in Cancers(pending), 2022. [paper]([A Comprehensive Analysis of Programmed Cell Death-Associated Genes for Tumor Microenvironment Evaluation Promotes Precise Immunotherapy in Patients with Lung Adenocarcinoma by Yunfang Yu, Yunxi Huang, Wenhao Ouyang, Zehua Wang, Hong Huang, Ruichong Lin, Lili Lin, Luhui Mao, Weifeng Su, Qiong Luo, Herui Yao :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4079102))
+1. Y. Huang, Y. Liu, W. Ouyang, **Z. Wang***, H. Huang, Q. Ou, R. Lin, L. Lin,  L. Mao, Y. Yu, W. Su, Q. Luo, H. Yao, ”A comprehensive analysis of programmed cell death-associated genes for tumor microenvironment evaluation promotes precise immunotherapy in patients with lung adenocarcinoma“, *Journal of Personalized Medicine*, 2023. [paper](https://doi.org/10.3390/jpm13030476)
 
 2. Y. Yu, Wei Ren, Z. He, Y. Chen, Y. Tan, L.Mao, W. Ouyang, N. Lu, J. Ouyang, K. Chen, C. Li, R. Zhang, Z. Wu, F. Su, **Z. Wang**, W. Su, Q. Hu, C. Xie, and H. Yao, ”Deep Learning Radiomics Supports Perioperative Treatment Decisions and is Associated With LncRNAs in Breast Cancer: A Multicenter Study“, in Nature Cancer(Under review), 2022.
 
